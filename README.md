@@ -1,11 +1,14 @@
-# Python Mini Projects
+# Number Guessing Game 🎯
 
-This repository contains small Python mini projects that I build while learning Python.
+This is a simple Python mini project where the user guesses a randomly generated number.
 
-Goals:
-- Improve problem-solving skills  
-- Practice Python fundamentals  
-- Apply logic to real-world programs  
-- Prepare for open source contribution and GSoC 2026  
+## How to Run
+1. Install Python
+2. Run the file using:
+   python game.py
 
-Projects will be added step by step as I learn new concepts.
+## Concepts Used
+- random module
+- while loop
+- if-else conditions
+- user input
