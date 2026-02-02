@@ -6,6 +6,7 @@ A simple command-line based to-do list application built using Python.
 - Add tasks
 - View tasks
 - Save tasks using a file
+- Delete tasks
 
 ## Concepts Used
 - File handling
